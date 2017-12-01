@@ -1,0 +1,409 @@
+Started GET "/" for 127.0.0.1 at 2017-12-01 08:00:51 +0100
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Library/Ruby/Gems/2.3.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 176ms (Views: 8.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-01 08:02:51 +0100
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Library/Ruby/Gems/2.3.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.7ms)
+Completed 200 OK in 167ms (Views: 8.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-01 08:03:23 +0100
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4126ms (Views: 4123.3ms)
+
+
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/helpers.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/class.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/module.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/basic_object.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/error.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/nil.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/constants.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/base.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/regexp.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerable.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerator.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/comparable.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/numeric.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/array.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/hash.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/range.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/number.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/proc.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/method.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/variables.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/regexp_anchors.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/mini.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/inheritance.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/encoding.self.map" for 127.0.0.1 at 2017-12-01 08:03:28 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/math.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/complex.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/rational.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/time.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/struct.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/io.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/main.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/dir.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/file.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/process.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/unsupported.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/native.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/constants.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/element.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/window.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/document.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/event.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/json.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/promise.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/http.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal-jquery.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal_ujs.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/application.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/boolean.self.map" for 127.0.0.1 at 2017-12-01 08:03:29 +0100
+Started GET "/" for 127.0.0.1 at 2017-12-01 08:04:11 +0100
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 94ms (Views: 90.2ms)
+
+
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/helpers.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/module.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/class.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/basic_object.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/error.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/constants.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/base.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/nil.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/boolean.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/comparable.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerable.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerator.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/regexp.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/array.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/numeric.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/range.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/proc.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/method.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/regexp_anchors.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/number.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/inheritance.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/mini.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/encoding.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/math.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/complex.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/rational.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/time.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/io.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/dir.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/main.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/struct.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/unsupported.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/file.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/process.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/variables.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/native.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/constants.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/element.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/window.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/event.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/document.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/promise.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/json.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/http.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal-jquery.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal_ujs.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/application.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/hash.self.map" for 127.0.0.1 at 2017-12-01 08:04:12 +0100
+Started GET "/" for 127.0.0.1 at 2017-12-01 08:04:49 +0100
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 359ms (Views: 356.6ms)
+
+
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/helpers.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/module.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/class.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/basic_object.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/error.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/constants.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/base.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/nil.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/boolean.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/comparable.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/regexp.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerable.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerator.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/numeric.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/array.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/hash.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/number.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/range.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/variables.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/method.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/regexp_anchors.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/mini.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/inheritance.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/encoding.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/math.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/complex.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/time.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/rational.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/struct.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/io.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/main.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/dir.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/process.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/unsupported.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/file.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/native.self.map" for 127.0.0.1 at 2017-12-01 08:04:50 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/constants.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/element.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/window.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/document.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/event.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/json.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/promise.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal-jquery.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/application.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal_ujs.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/http.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/proc.self.map" for 127.0.0.1 at 2017-12-01 08:04:51 +0100
+Started GET "/" for 127.0.0.1 at 2017-12-01 08:05:01 +0100
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 30ms
+
+
+  
+ActionView::Template::Error (couldn't find file 'matrix' with type 'application/javascript'
+Checked in these paths: 
+  /Library/Ruby/Gems/2.3.0/gems/opal-0.10.5/opal
+  /Library/Ruby/Gems/2.3.0/gems/opal-0.10.5/stdlib
+  /Library/Ruby/Gems/2.3.0/gems/opal-0.10.5/lib
+  /Library/Ruby/Gems/2.3.0/gems/opal-jquery-0.4.2/lib
+  /Library/Ruby/Gems/2.3.0/gems/opal-activesupport-0.3.0/opal
+  /Users/range/Documents/opal-use_gem-issue/app/assets/config
+  /Users/range/Documents/opal-use_gem-issue/app/assets/images
+  /Users/range/Documents/opal-use_gem-issue/app/assets/javascripts
+  /Users/range/Documents/opal-use_gem-issue/app/assets/stylesheets
+  /Library/Ruby/Gems/2.3.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /Library/Ruby/Gems/2.3.0/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /Library/Ruby/Gems/2.3.0/gems/opal-rails-0.9.3/lib/assets/javascripts
+  /Library/Ruby/Gems/2.3.0/gems/actioncable-5.1.4/lib/assets/compiled
+  /Library/Ruby/Gems/2.3.0/gems/actionview-5.1.4/lib/assets/compiled
+  /Library/Ruby/Gems/2.3.0/gems/turbolinks-source-5.0.3/lib/assets/javascripts
+  /Users/range/Documents/opal-use_gem-issue/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___3543708968168609914_70191938731620'
+Started GET "/" for 127.0.0.1 at 2017-12-01 08:05:19 +0100
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 309ms (Views: 305.6ms)
+
+
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/helpers.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/module.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/class.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/basic_object.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/error.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/base.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/constants.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/comparable.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/regexp.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerable.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerator.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/numeric.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/array.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/number.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/hash.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/range.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/boolean.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/method.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/proc.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/variables.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/regexp_anchors.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/mini.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/inheritance.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/encoding.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/math.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/rational.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/complex.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/time.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/struct.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/io.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/main.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/file.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/unsupported.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/dir.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/process.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/native.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/constants.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/element.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/window.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/document.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/event.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/json.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/promise.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/http.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal-jquery.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal_ujs.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/application.self.map" for 127.0.0.1 at 2017-12-01 08:05:20 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/nil.self.map" for 127.0.0.1 at 2017-12-01 08:05:21 +0100
+Started GET "/" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 102ms (Views: 100.3ms)
+
+
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/helpers.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/module.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/class.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/basic_object.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/error.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/constants.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/base.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/nil.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/boolean.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/comparable.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/regexp.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerable.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerator.self.map" for 127.0.0.1 at 2017-12-01 08:05:48 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/numeric.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/number.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/hash.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/range.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/proc.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/method.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/variables.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/regexp_anchors.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/mini.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/inheritance.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/encoding.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/math.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/complex.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/rational.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/time.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/struct.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/main.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/dir.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/process.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/io.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/unsupported.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/file.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/native.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/constants.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/element.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/window.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/document.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/event.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/promise.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/http.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal-jquery.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/application.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal_ujs.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/json.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/array.self.map" for 127.0.0.1 at 2017-12-01 08:05:49 +0100
+Started GET "/" for 127.0.0.1 at 2017-12-01 08:06:48 +0100
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 290ms (Views: 288.1ms)
+
+
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/helpers.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/module.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/class.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/basic_object.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/error.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/constants.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/base.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/nil.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/boolean.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/comparable.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/regexp.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerable.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/enumerator.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/numeric.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/array.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/hash.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/range.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/number.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/proc.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/method.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/regexp_anchors.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/inheritance.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/mini.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/string/encoding.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/complex.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/rational.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/math.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/time.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/struct.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/io.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/main.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/file.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/process.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/unsupported.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/dir.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/native.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/constants.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/element.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/window.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/document.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/json.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/promise.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/event.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/kernel.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery/http.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal-jquery.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal/jquery.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/opal_ujs.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/application.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
+Started GET "/__OPAL_SOURCE_MAPS__/corelib/variables.self.map" for 127.0.0.1 at 2017-12-01 08:06:49 +0100
